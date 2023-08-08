@@ -8,22 +8,22 @@ Welcome! This will be (hopefully :sweat_smile:) great experience that will kick-
 
 ## Step-by-step guide:
 
-1. Visit our website [here](https://africastalking.com) and navigate to the **top right** section to log in as shown in the image below. 
+1. Visit the Africa's Talking website [here](https://africastalking.com) and navigate to the **top right** section to log in as shown in the image below. 
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking Website](/AT-AccountSetup/AT-FolderImages/AT-Website.png)
 
 2. To create an account, click on the *Register* link shown on the Log in page as shown in the image below.
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking Website Register](/AT-AccountSetup/AT-FolderImages/AT-LogIn.png)
 
 3. Sign up with your details on the page shown. 
 4. Log in to your account. Successful logging in leads you to a page with a pop-up onboarding survey. Kindly fill that in, it takes less than a minute :blush:. The survey is one such as the one shown below:
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking Account Survey](/AT-AccountSetup/AT-FolderImages/AT-Survey.png)
 
 5. After the survey, you land on the *account dashboard*, similar to that shown in the image below:
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking Account Dashboard](/AT-AccountSetup/AT-FolderImages/AT-VerifyEmail.png)
 
 On the page, there is a prompt to check your email for a verification email. (This is the point where you switch to your email and verufy your account. Don't worry, no rush, I'll wait :relieved:). 
 
@@ -31,35 +31,35 @@ Verified? Awesome! :grin: Time to proceed now...
 
 6. On successful verification, your dashboard unlocks a new feature that enables you to create a __*team*__. (This is the starting point for consuming our APIs when creating applications.) Click on the *New Team* button on the account button as shown in the image below:
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking Account: New Team](/AT-AccountSetup/AT-FolderImages/AT-NewTeam.png)
 
-NOTE: To learn more about *teams, members* and *apps*, find details in the [AT-Structure folder](/AT-Structure/). 
+NOTE: To learn more about *teams, members* and *apps*, find details in the [AT-TeamStructure folder](/AT-AccountSetup/AT-TeamStructure/). 
 
 7. When you click on the *New Team* button, you get prompted to give your team a name. (Don't worry, any name works fine :sweat_smile:). After successful creation, you can then view your team on the dashboard as shown in the image below:
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking Account: Team Created](/AT-AccountSetup/AT-FolderImages/AT-NewTeamCreated.png)
 
 Click on your created team's name.
 
 8. After clicking on the team name, you land on the **Team dashboard** as shown in the image below:
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking Account: Team Dashboard](/AT-AccountSetup/AT-FolderImages/AT-TeamDashboard.png)
 
-This enables you to add members and apps to your team. (Refer [here](/AT-Structure/) for details on members and apps) Feel free to add on members, but the apps are what will be key in consumption of APIs. So let us proceed with that...
+This enables you to add members and apps to your team. (Refer [here](/AT-AccountSetup/AT-TeamStructure/) for details on members and apps) Feel free to add on members, but the apps are what will be key in consumption of APIs. So let us proceed with that...
 
 9. Click on the *Create App* button to create a new app. The form that pops up is as shown below:
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking New App](/AT-AccountSetup/AT-FolderImages/AT-NewApp.png)
 
 The name can be *anything you wish*. However, the __*username*__ should be as **unique as possible**. Wonder why :thought_balloon:? **(Put a star on this, you'll see it once we get to the __*App Dashboard*__)**
 
 Once saved, the app is added to your apps list as shown in the image below:
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking New App Created](/AT-AccountSetup/AT-FolderImages/AT-AppCreated.png)
 
 10. Click on your app name to progress to the **App Dashboard**. The dashboard should look as shown in the image: 
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking App Dashboard](/AT-AccountSetup/AT-FolderImages/AT-AppDashboard.png)
 
 NOTE: The dashboard for a *new* account has some unique elements. These are:
 
@@ -76,7 +76,7 @@ c. The **left side-bar** has dropdowns for all the products for further details 
 
 1. Accessing your **API Key**
 
-- Navigate to the last item of the sidebar on the left, *Settings*, and select the *API Key* option from the dropdown. This leads to a page with a password input field as shown in th eimage below:
+Navigate to the last item of the sidebar on the left, *Settings*, and select the *API Key* option from the dropdown. This leads to a page with a password input field as shown in the image below:
 
 ![Africa's Talking Website Log in ](image.jpg)
 
@@ -86,6 +86,22 @@ NOTE: Each time you generate a new API Key, all other previously generated API K
 
 2. **Top-up Processes**
 
+Navigate to the *Billing* item of the sidebar on the left, and select the *Payment Methods* option from the dropdown. This leads to a page with payment method options based on your country as shown in the image below:
+
+![Africa's Talking Website Log in ](image.jpg)
+
+Top-up instructions are shown per option, and on top-up it reflects on your account *automatically* as will be visible on the **Balance** button on the *top left*. 
+
 3. Accessing **Developer Documentation**
 
+Navigate to the *Docs* icon at the top right section of the navbar to access Developer Documentation. **This is a very key part of the Africa's Talking website.**
+
+Find more details and tips on the Africa's Talking Developers' Portal in [this folder](/AT-DeveloperDocs/).
+
 4. Setting **Callback URLs**
+
+Navigate to a particular product, e.g. *SMS* from the sidebar, then navigate to the final item in the dropdown, *SMS Callback URLs*. Select the callback you would want to set and insert the URL in the text input field then click on *Submit* to set it. The interface will be displayed as shown below:
+
+![Africa's Talking Website Log in ](image.jpg)
+
+NOTE: Further details on **how to set up a callback URL using [Ngrok](https://ngrok.com/) and sending and receiving requests via [Postman](https://www.postman.com/)** is shown in [this article](https://medium.com/africas-talking/how-to-send-data-and-receive-reports-using-africas-talking-apis-512720fe4d80).
