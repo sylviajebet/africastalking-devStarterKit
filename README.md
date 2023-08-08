@@ -33,7 +33,7 @@ Very simple... We gatchu!
 
 First, 
 
-![](https://placehold.it/650x90/009955/fff?text=visit). 
+![](https://placehold.it/150x40/009955/fff?text='visit our **website** [here](htps://africastalking.com)'). 
 
  our **website** HERE. Looks cool, right? :smirk:
 
