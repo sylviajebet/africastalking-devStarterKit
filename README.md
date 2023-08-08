@@ -32,7 +32,7 @@ Join us via the links here:
 Very simple... We gatchu!
 
 First, visit our 
-![](https://placehold.it/90x10/009955/fff?text=website) 
+![](https://placehold.it/120x20/009955/fff?text=website) 
 [here](https://africastalking.com).
 Looks cool, right? :smirk:
 
