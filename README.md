@@ -18,24 +18,24 @@ Through a diverse array of events, from *hackathons* and *meet-ups* to *CTO roun
 
 Join us via the links here: 
 
-- Join our Africa's Talking community page HERE
-- Join our Africa's Talking Women in Tech community page HERE
-- Follow our Africa's Talking Twitter page HERE
-- Follow our Africa's Talking Nairobi Community Twitter page HERE
-- Follow our Africa's Talking Dar es Salaam Community Twitter page HERE
-- Follow our Africa's Talking Uganda Community Twitter page HERE
-- Follow our Africa's Talking Kaduna Community Twitter page HERE
-- Follow our Africa's Talking Women in Tech Twitter page HERE
+- Join our Africa's Talking community page [here](https://community.elarian.com/africas-talking-community/)
+- Join our Africa's Talking Women in Tech community page [here](https://community.elarian.com/africas-talking-women-in-tech-community/)
+- Follow our Africa's Talking Twitter page [here](https://twitter.com/Africastalking)
+- Follow our Africa's Talking Nairobi Community Twitter page [here](https://twitter.com/ATCommunityNBO)
+- Follow our Africa's Talking Dar es Salaam Community Twitter page [here](https://twitter.com/ATCommuntyDar)
+- Follow our Africa's Talking Uganda Community Twitter page [here](https://twitter.com/ATDevsUg)
+- Follow our Africa's Talking Banjul Community Twitter page [here](https://twitter.com/ATcommunityBjl)
+- Follow our Africa's Talking Women in Tech Twitter page [here](https://twitter.com/ATWomenInTech)
 
 ## How to get started as a developer on our platform?
 
 Very simple... We gatchu!
 
-First, visit our ==website== HERE. Looks cool, right?
+First, ![](https://placehold.it/350x90/009955/fff?text=visit our **website** HERE). Looks cool, right? :smirk:
 
-Then, to ==create an account== and get hands-on in using our APIs and SDKs, follow the directions on the file HERE. 
+Then, to **create an account** and get hands-on in using our APIs and SDKs, follow the directions on the file HERE. 
 
-You are also welcome to contribute to ==open-source== HERE.
+You are also welcome to contribute to **open-source** HERE.
 
 Finally, do NOT miss out on our events and communities - They are always worth it!
 
