@@ -31,7 +31,11 @@ Join us via the links here:
 
 Very simple... We gatchu!
 
-First, ![](https://placehold.it/350x90/009955/fff?text=visit our **website** HERE). Looks cool, right? :smirk:
+First, 
+
+![](https://placehold.it/650x90/009955/fff?text=visit our **website** HERE). 
+
+Looks cool, right? :smirk:
 
 Then, to **create an account** and get hands-on in using our APIs and SDKs, follow the directions on the file HERE. 
 
