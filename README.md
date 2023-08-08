@@ -31,7 +31,7 @@ Join us via the links here:
 
 Very simple... We gatchu!
 
-First, visit our <mark>website</mark> [here](https://africastalking.com).
+First, visit our __*website*__ [here](https://africastalking.com).
 Looks cool, right? :smirk:
 
 Then, to **create an account** and get hands-on in using our APIs and SDKs, follow the directions on the file HERE. 
