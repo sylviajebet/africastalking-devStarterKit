@@ -25,8 +25,8 @@ Welcome! This will be (hopefully :sweat_smile:) great experience that will kick-
 
 ![Africa's Talking Account Dashboard](/AT-AccountSetup/AT-FolderImages/AT-VerifyEmail.png)
 
-On the page, there is a prompt to check your email for a verification email. (This is the point where you switch to your email and verufy your account. Don't worry, no rush, I'll wait :relieved:). 
-
+On the page, there is a prompt to check your email for a __*verification email*__. (This is the point where you switch to your email and verify your account. Don't worry, no rush, I'll wait :relieved:). 
+---
 Verified? Awesome! :grin: Time to proceed now...
 
 6. On successful verification, your dashboard unlocks a new feature that enables you to create a __*team*__. (This is the starting point for consuming our APIs when creating applications.) Click on the *New Team* button on the account button as shown in the image below:
@@ -69,7 +69,9 @@ NOTE: The dashboard for a *new* account has some unique elements. These are:
 On the landing page, the main elements to take note of are:
 
 a. The **account balance** is visible on your *top left*.
+
 b. Your **username** is located right at the top.
+
 c. The **left side-bar** has dropdowns for all the products for further details and charts.
 
 ## Key Aspects
@@ -78,7 +80,7 @@ c. The **left side-bar** has dropdowns for all the products for further details 
 
 Navigate to the last item of the sidebar on the left, *Settings*, and select the *API Key* option from the dropdown. This leads to a page with a password input field as shown in the image below:
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking API Key](/AT-AccountSetup/AT-FolderImages/AT-ApiKey.png)
 
 Your API Key is a fundamental part of your code, and is in the form of a long string of letters and numbers. Hence, once generated, *store it in a place where you can refer from*. The key is generated after you key in your password in the input field and click on the *Generate* button. 
 
@@ -88,7 +90,7 @@ NOTE: Each time you generate a new API Key, all other previously generated API K
 
 Navigate to the *Billing* item of the sidebar on the left, and select the *Payment Methods* option from the dropdown. This leads to a page with payment method options based on your country as shown in the image below:
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking Top-up](/AT-AccountSetup/AT-FolderImages/AT-TopUp.png)
 
 Top-up instructions are shown per option, and on top-up it reflects on your account *automatically* as will be visible on the **Balance** button on the *top left*. 
 
@@ -102,6 +104,18 @@ Find more details and tips on the Africa's Talking Developers' Portal in [this f
 
 Navigate to a particular product, e.g. *SMS* from the sidebar, then navigate to the final item in the dropdown, *SMS Callback URLs*. Select the callback you would want to set and insert the URL in the text input field then click on *Submit* to set it. The interface will be displayed as shown below:
 
-![Africa's Talking Website Log in ](image.jpg)
+![Africa's Talking Callback URL](/AT-AccountSetup/AT-FolderImages/AT-CallbackURL.png)
 
-NOTE: Further details on **how to set up a callback URL using [Ngrok](https://ngrok.com/) and sending and receiving requests via [Postman](https://www.postman.com/)** is shown in [this article](https://medium.com/africas-talking/how-to-send-data-and-receive-reports-using-africas-talking-apis-512720fe4d80).
+NOTE: Further details on **how to set up a callback URL using [Ngrok](https://ngrok.com/) and sending and receiving requests via [Postman](https://www.postman.com/)** is shown in :pencil:[this article](https://medium.com/africas-talking/how-to-send-data-and-receive-reports-using-africas-talking-apis-512720fe4d80).
+
+With that, you're set up! Ready to consume APIs and build scalable solutions for the win! :muscle:
+
+
+Wait, before I forget... 
+
+**Remember we had a unique username and were to find out why?**
+
+1. Your **username** is used as an authentication element, together with your API Key. Hence, should be unique.
+2. When topping-up, your **username** identifies your account, which is automatically updated with the amount.
+
+That being said (written :smile:), happy coding! :)
