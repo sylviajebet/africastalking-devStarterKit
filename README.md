@@ -33,9 +33,9 @@ Very simple... We gatchu!
 
 First, 
 
-![](https://placehold.it/650x90/009955/fff?text=visit our **website** HERE). 
+![](https://placehold.it/650x90/009955/fff?text=visit). 
 
-Looks cool, right? :smirk:
+ our **website** HERE. Looks cool, right? :smirk:
 
 Then, to **create an account** and get hands-on in using our APIs and SDKs, follow the directions on the file HERE. 
 
