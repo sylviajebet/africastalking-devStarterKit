@@ -2,9 +2,9 @@
 
 Welcome! This will be (hopefully :sweat_smile:) great experience that will kick-start your API journey or keep your dev psych blazing :fire:.
 
-:star:Key items of the instructions:
-- Step-by-step guide on setting up your account (with pictorial illustrations :100:)
-- Key aspects 
+:star: Key items of these instructions:
+- *Step-by-step* guide on setting up your account (with pictorial illustrations :100:)
+- Key aspects to take note of on the *App Dashboard*
 
 ## Step-by-step guide:
 
