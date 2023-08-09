@@ -42,6 +42,4 @@ Finally, do NOT miss out on our events and communities - They are always worth i
 
 **Stay happy and code on! :)**
 
-```
-#WeLoveNerds #BuildWithAT
-```
+> #WeLoveNerds #BuildWithAT

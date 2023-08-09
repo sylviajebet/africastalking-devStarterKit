@@ -15,7 +15,7 @@ The Sandbox App Dashboard is similar to the Live App Dashboard explained when se
 The following are the main differences between __*Live*__ and __*Sandbox*__:
 
 | **Sandbox** | **Live** |
----
+| -------------------------------- | ---------------------------------------------------------------------- |
 | **Orange** colour used in the UI | **Green** colour used in the UI |
 | Username is **sandbox** | Username is **the unique username you set when creatinhg the app** |
 | Account balance is **N/A** | Account balance is **the value of your account's balance** |
