@@ -34,7 +34,7 @@ Very simple... We gatchu!
 First, visit our __*website*__ [here](https://africastalking.com).
 Looks cool, right? :smirk:
 
-Then, to __*create an account*__ and get hands-on in using our APIs and SDKs, follow the instructions in the [AT-AccountSetup folder](/AT-AccountSetup/). 
+Then, to __*create an account*__ and get hands-on in using our APIs and SDKs, follow the instructions in the [AT-AccountSetup folder](/at-accountsetup/). 
 
 You are also welcome to contribute to __*open-source*__ [here](https://github.com/AfricasTalkingLtd).
 
