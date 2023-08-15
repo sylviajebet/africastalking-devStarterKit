@@ -36,6 +36,8 @@ Looks cool, right? :smirk:
 
 Then, to __*create an account*__ and get hands-on in using our APIs and SDKs, follow the instructions in the [AT-AccountSetup folder](/at-accountsetup/). 
 
+Thinking of samples and code snippets of how to implement and consume our APIs? Check out some [demos here](/at-demos/).
+
 You are also welcome to contribute to __*open-source*__ [here](https://github.com/AfricasTalkingLtd).
 
 Finally, do NOT miss out on our events and communities - They are always worth it!
