@@ -1,5 +1,11 @@
 # Welcome to the Africa's Talking Community :sunglasses:
 
+## Where to get started? Let us help you :)
+- Click [here](/at-accountsetup/) for a guide on how to create an Africa's Talking account.
+- Click [here](https://africastalking.slack.com) to join the Africa's Talking Community Slack for information updates.
+- Click [here](#how-to-join-and-follow-the-community?) to jump to community links.
+- Click [here](#how-to-get-started-as-a-developer-on-our-platform?) to get started as a developer.
+
 ## What is Africa's Talking?
 
 [Africa's Talking](https://africastalking.com) is a dynamic and innovative technology company that *empowers businesses across Africa*. :telephone_receiver: 
